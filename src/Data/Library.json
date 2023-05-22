@@ -1,0 +1,48 @@
+{
+	"Name": "Library",
+	"Id": "0",
+	"Child": [{
+		"Name": "Cabinet 1",
+		"Id": "1",
+		"Child":[{
+			"Name": "Shelf 1",
+			"Id": "2",
+			"Child":[{
+				"Name": "Folder 1",
+				"Id": "3",
+				"Child": [
+					{"Name":"Book 1"}, 
+					{"Name":"Book 2"}]
+				},
+				{
+				"Name": "Folder 1",
+				"Id": "4",
+				"Child":[]
+				}]
+				},
+			{
+				"Name": "Shelf 1",
+				"Id": "2",
+				"Child":[{
+					"Name": "Folder 1",
+					"Id": "3",
+					"Child": [
+						{"Name":"Book 1"}, 
+						{"Name":"Book 2"}]
+					},
+					{
+					"Name": "Folder 1",
+					"Id": "4",
+					"Child":[]
+					}]
+					
+		}]
+	
+},
+{
+	"Name": "Cabinet 1",
+	"Id": "1",
+	"Child":[]
+}]
+}
+
